@@ -1,0 +1,3 @@
+typedef unsigned short CHAR16;
+typedef unsigned long long EFI_STATUS;
+typedef void *EFI_HANDLE;
